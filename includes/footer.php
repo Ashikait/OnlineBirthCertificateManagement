@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="footer-copy-right">
-                        <p> Online Birth Certicate System.</p>
+                         <p> Online Birth Certicate System.</p>
                     </div>
                 </div>
             </div>
